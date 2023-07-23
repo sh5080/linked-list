@@ -1,6 +1,7 @@
 {
   "name": "linkedlist",
   "version": "1.0.0",
+  "type": "module",
   "description": "A simple implementation of a Linked List data structure in TypeScript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sh5080/linked-list/issues"
   },
-  "homepage": "https://github.com/sh5080/linked-list#readme"
+  "homepage": "https://github.com/sh5080/linked-list#readme",
+  "dependencies": {
+    "linkedlist": "1.0.0"
+  }
 }
