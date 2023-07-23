@@ -1,6 +1,6 @@
 재사용을 위한 linked list 모듈
 
-## Table of Contents
+## 목차
 
 - [설명](#설명)
 - [설치 방법](#설치-방법)
@@ -15,7 +15,7 @@ LinkedList는 TypeScript로 구현된 간단한 링크드 리스트(Linked List)
 npm을 사용하여 linkedlist 라이브러리를 설치할 수 있습니다:
 
 ```bash
-npm install linkedlist
+npm install linkedlist_for_beginner
 
 ```
 
@@ -24,7 +24,7 @@ npm install linkedlist
 프로젝트에서 linkedlist 라이브러리를 사용하려면 먼저 LinkedList 클래스를 import 해야 합니다.
 
 ```typescript
-import LinkedList from "linkedlist";
+import LinkedList from "linkedlist_for_beginner";
 ```
 
 새로운 링크드 리스트 생성:

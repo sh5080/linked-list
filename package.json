@@ -1,5 +1,5 @@
 {
-  "name": "linkedlist",
+  "name": "linkedlist_for_beginner",
   "version": "1.0.0",
   "type": "module",
   "description": "A simple implementation of a Linked List data structure in TypeScript.",
